@@ -1,8 +1,6 @@
-// alura - 2cseries - styles.css
-
 body {
-    color: white;
-    background: black;
+    color: black;
+    background: gray;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
 }
@@ -11,11 +9,11 @@ header {
     border-bottom: solid 2px rgb(42, 122, 228);
     padding: 20px;
     font-size: 32px;
-    color: rgb(42, 122, 228);
+    color: rgb(0, 0, 0);
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
+    background: rgb(97, 0, 105);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
@@ -27,11 +25,11 @@ header {
 }
 
 h1 {
-    font-size: 40px;
+    font-size: 45px;
 }
 
 p {
-    font-size: 20px;
+    font-size: 35px;
 }
 
 img {
